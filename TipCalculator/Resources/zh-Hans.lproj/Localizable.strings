@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TipCalculator
+
+  Created by JunXie on 14-6-25.
+  Copyright (c) 2014 xiejun. All rights reserved.
+*/
+
+"Delete" = "删除";
+"Cancel" = "取消";
+
+"Add Rate" = "添加换算";
+"Edit Rate" = "编辑换算";
+
+///
+"New Rate Title" = "新单位名称";

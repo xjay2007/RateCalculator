@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TipCalculator
+
+  Created by JunXie on 14-6-25.
+  Copyright (c) 2014 xiejun. All rights reserved.
+*/
+
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+
+"Add Rate" = "Add Rate";
+"Edit Rate" = "Edit Rate";
+
+///
+"New Rate Title" = "New Rate Title";

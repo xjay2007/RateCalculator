@@ -1,0 +1,63 @@
+
+/* Class = "IBUINavigationController"; title = "Tip Calculator"; ObjectID = "29V-OL-GHq"; */
+"29V-OL-GHq.title" = "Tip Calculator";
+
+/* Class = "IBUINavigationItem"; title = "Rate Conversion"; ObjectID = "Atp-yp-EdS"; */
+"Atp-yp-EdS.title" = "Rate Conversion";
+
+/* Class = "IBUITextField"; placeholder = "1.0"; ObjectID = "ENh-5r-THS"; */
+"ENh-5r-THS.placeholder" = "1.0";
+
+/* Class = "IBUIButton"; normalTitle = "Delete Rate"; ObjectID = "Hd4-XO-AMR"; */
+"Hd4-XO-AMR.normalTitle" = "Delete Rate";
+
+/* Class = "IBUILabel"; text = "Click to Switch Unit"; ObjectID = "JR6-sB-l7g"; */
+"JR6-sB-l7g.text" = "Click to Switch Unit";
+
+/* Class = "IBUINavigationItem"; title = "Add Rate"; ObjectID = "KR7-Xd-MNn"; */
+"KR7-Xd-MNn.title" = "Add Rate";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "NEv-Sl-Kkm"; */
+"NEv-Sl-Kkm.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Pressure"; ObjectID = "Sbr-na-E33"; */
+"Sbr-na-E33.title" = "Pressure";
+
+/* Class = "IBUITabBarItem"; title = "HorsePower"; ObjectID = "TGS-OR-oVd"; */
+"TGS-OR-oVd.title" = "HorsePower";
+
+/* Class = "IBUIButton"; normalTitle = "↑↓"; ObjectID = "ZTn-ta-Pnd"; */
+"ZTn-ta-Pnd.normalTitle" = "↑↓";
+
+/* Class = "IBUITextField"; placeholder = "1.0"; ObjectID = "c5B-ru-wBr"; */
+"c5B-ru-wBr.placeholder" = "1.0";
+
+/* Class = "IBUITextField"; placeholder = "New Unit Title"; ObjectID = "eMC-g8-RTG"; */
+"eMC-g8-RTG.placeholder" = "New Unit Title";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "fgw-bx-0dM"; */
+"fgw-bx-0dM.text" = "Subtitle";
+
+/* Class = "IBUITextField"; placeholder = "0.0"; ObjectID = "kwF-Bf-sla"; */
+"kwF-Bf-sla.placeholder" = "0.0";
+
+/* Class = "IBUILabel"; text = "="; ObjectID = "mzO-vt-ENu"; */
+"mzO-vt-ENu.text" = "=";
+
+/* Class = "IBUITabBarItem"; title = "Heat"; ObjectID = "nf0-VH-aMt"; */
+"nf0-VH-aMt.title" = "Heat";
+
+/* Class = "IBUILabel"; text = "="; ObjectID = "qhP-pv-lnz"; */
+"qhP-pv-lnz.text" = "=";
+
+/* Class = "IBUINavigationItem"; title = "Rate List"; ObjectID = "tQg-3x-Fa7"; */
+"tQg-3x-Fa7.title" = "Rate List";
+
+/* Class = "IBUILabel"; text = "Unit Title"; ObjectID = "viH-uk-4u6"; */
+"viH-uk-4u6.text" = "Unit Title";
+
+/* Class = "IBUITabBarItem"; title = "Weight"; ObjectID = "x1f-Io-x5h"; */
+"x1f-Io-x5h.title" = "Weight";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "yR7-Jg-qR2"; */
+"yR7-Jg-qR2.title" = "Item";
